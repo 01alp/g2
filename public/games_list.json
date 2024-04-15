@@ -1,0 +1,128 @@
+[
+  {
+    "name": "9 Pots of Gold Roulette",
+    "category": "roulette",
+    "image": "./assets/img/g01.png",
+    "rating": 9.4,
+    "activeUsers": 12
+  },
+  {
+    "name": "Extreme Multifire Roulette",
+    "category": "roulette",
+    "image": "./assets/img/g02.png",
+    "rating": 9,
+    "activeUsers": 19
+  },
+  {
+    "name": "Multifire Roulette",
+    "category": "roulette",
+    "image": "./assets/img/g03.png",
+    "rating": 9.1,
+    "activeUsers": 19
+  },
+  {
+    "name": "Mega Moolah Roulette",
+    "category": "roulette",
+    "image": "./assets/img/g04.png",
+    "rating": 7.4,
+    "activeUsers": 5
+  },
+  {
+    "name": "European Roulette",
+    "category": "roulette",
+    "image": "./assets/img/g05.png",
+    "rating": 7.4,
+    "activeUsers": 17
+  },
+  {
+    "name": "Blazing Mammoth",
+    "category": "slots",
+    "image": "./assets/img/g06.png",
+    "rating": 9,
+    "activeUsers": 13
+  },
+  {
+    "name": "Thunderstruck Wild Lightning",
+    "category": "slots",
+    "image": "./assets/img/g07.png",
+    "rating": 7.4,
+    "activeUsers": 25
+  },
+  {
+    "name": "Immortal Romance",
+    "category": "slots",
+    "image": "./assets/img/g08.png",
+    "rating": 6.4,
+    "activeUsers": 2
+  },
+  {
+    "name": "9 Masks of Fire",
+    "category": "slots",
+    "image": "./assets/img/g09.png",
+    "rating": 7.1,
+    "activeUsers": 22
+  },
+  {
+    "name": "Hyper Gold",
+    "category": "slots",
+    "image": "./assets/img/g10.png",
+    "rating": 8.4,
+    "activeUsers": 8
+  },
+  {
+    "name": "Classic Blackjack",
+    "category": "blackjack",
+    "image": "./assets/img/g11.png",
+    "rating": 9.6,
+    "activeUsers": 33
+  },
+  {
+    "name": "European Blackjack",
+    "category": "blackjack",
+    "image": "./assets/img/g12.png",
+    "rating": 9.4,
+    "activeUsers": 22
+  },
+  {
+    "name": "Multi Hand Atlantic City Blackjack",
+    "category": "blackjack",
+    "image": "./assets/img/g13.png",
+    "rating": 7.5,
+    "activeUsers": 21
+  },
+  {
+    "name": "Multi Hand Classic Blackjack",
+    "category": "blackjack",
+    "image": "./assets/img/g14.png",
+    "rating": 8.7,
+    "activeUsers": 20
+  },
+  {
+    "name": "Premier Blackjack with Side Bets",
+    "category": "blackjack",
+    "image": "./assets/img/g15.png",
+    "rating": 9.7,
+    "activeUsers": 18
+  },
+  {
+    "name": "Hold'em Poker",
+    "category": "poker",
+    "image": "./assets/img/g16.png",
+    "rating": 8.4,
+    "activeUsers": 14
+  },
+  {
+    "name": "Hold'em Poker 2",
+    "category": "poker",
+    "image": "./assets/img/g17.png",
+    "rating": 9.1,
+    "activeUsers": 15
+  },
+  {
+    "name": "Hold'em Poker 3",
+    "category": "poker",
+    "image": "./assets/img/g18.png",
+    "rating": 9.2,
+    "activeUsers": 11
+  }
+]
